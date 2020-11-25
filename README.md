@@ -1,6 +1,8 @@
 # cocos_creator_proj_base
  cocos creator项目基础类库，包括socket, http网络连接，资源加载与管理，ui加载与管理，事件系统，音效播放，常用控件如listview，scrollview等
  
+ A cocos creator project framework, including socket, http, asset loading, ui loading, event system, audio play and some widget like recycle list view.
+ 
  使用说明
  
  1.ListView, 循环滚动列表，固定尺寸item, 屏幕可见范围外item会回收等待下次复用。支持横向，竖向，多行多列。支持追加删除数据。支持上右下左padding, 支持设置item锚点。
